@@ -4,11 +4,11 @@
 		"interviewQuestionsUrl": "https://raw.githubusercontent.com/PlayStoreAppContent/JavaProgram/gh-pages/jsonparsetutorial.txt",
 		"searchUrl": "https://playstoreappcontent.github.io/CPlusTutotialAng/#/search/",
 		"aboutMeUrl": "https://playstoreappcontent.github.io/Sanjay-Lohar/",
-		"conceptsAdUnit":"",
-		"programsAdUnit":null,
-		"interviewQuestionsAdUnit":"ca-app-pub-3940256099942544/1033173712",
-		"searchAdUnit":"ca-app-pub-3940256099942544/1033173712",
-		"aboutMeAdUnit":"ca-app-pub-3940256099942544/1033173712",
-		"requirementAdUnit":"ca-app-pub-3940256099942544/1033173712",
-		"allCategoriesAdUnit":"ca-app-pub-3940256099942544/1033173712"
+		"conceptsAdUnit":"ca-app-pub-3940256099942544/1033173712",
+		"programsAdUnit":"",
+		"interviewQuestionsAdUnit":"",
+		"searchAdUnit":"",
+		"aboutMeAdUnit":"",
+		"requirementAdUnit":"",
+		"allCategoriesAdUnit":""
 }
